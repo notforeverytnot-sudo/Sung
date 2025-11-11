@@ -1,3 +1,4 @@
+HEAD
 # J.A.R.V.I.S - Just A Rather Very Intelligent System 🤖
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -62,3 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [telegram-url]: https://t.me/YourTelegramUsername
 
 
+=======
+# Sung
+>>>>>>> 21f89c8dc5b5635612e380dd30e61f2ef337db8e
