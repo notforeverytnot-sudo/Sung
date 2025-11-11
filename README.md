@@ -16,7 +16,7 @@ J.A.R.V.I.S (Just A Rather Very Intelligent System) is an advanced AI assistant 
 ## Installation ⚙️
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S.git
+    git clone https://github.com/notforeverytnot-sudo/Sung
     ```
 2. Navigate to the project directory:
     ```bash
